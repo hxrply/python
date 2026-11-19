@@ -1383,7 +1383,12 @@ def run_pylint(path: Path) -> list[Finding]:
                                     "See the Python syntax error for this line.", message, "syntax"))
             continue
         fallback = {"fatal": "ERROR", "error": "ERROR", "warning": "WARNING"}.get(kind, "STYLE")
-        findings.append(tool_finding("Pylint", PYLINT_HELP.get(symbol), line,
+        help_entry = PYLINT_HELP.get(symbol)
+        # Pylint uses 'singleton-comparison' for None AND for True/False comparisons,
+        # so pick the matching tip from the message text.
+        if symbol == "singleton-comparison" and not re.search(r"\bNone\b", message):
+            help_entry = RUFF_HELP["E712"]
+        findings.append(tool_finding("Pylint", help_entry, line,
                                      f"{item.get('message-id', '')} {message} ({symbol})", fallback))
     return findings
 
