@@ -1,5 +1,10 @@
+# Install everything with:  python -m pip install -r requirements.txt
+
+# Packages used by my programs (task_4a_summer.py)
+pandas>=2.0
+matplotlib>=3.7
+
 # Extra tools used by python_checker.py
-# Install with:  python -m pip install -r requirements.txt
 ruff>=0.5
 pylint>=3.0
 mypy>=1.0
