@@ -10,10 +10,17 @@ import matplotlib.pyplot as plt
 # Drill 1 - load the CSV ONCE, without crashing if it is missing
 # ---------------------------------------------------------------
 def load_data(file_name):
+    try:
+        df = pd.read_csv(file_name)
+        return df
+    except FileNotFoundError:
+        print("File not found enter an exisiting file")
+        return None
+    
     # TODO(human): read file_name into a DataFrame and return it.
     # If the file does not exist, print a friendly message and return None
     # instead of crashing.
-    pass
+    
 
 
 # ---------------------------------------------------------------
@@ -68,7 +75,7 @@ def last_n_days(df, n):
 # ---------------------------------------------------------------
 # Test area - runs when you press Run
 # ---------------------------------------------------------------
-data = load_data("cafe_sales.csv")
+data = load_data("/workspaces/python/Task 4a practice/cafe_sales.csv")
 print(data.head() if data is not None else "No data loaded")
 
 missing = load_data("not_a_real_file.csv")
