@@ -1,6 +1,6 @@
 # Check the map before the mission
 
-*2. Look at the data before you write anything*
+*Look at the data before you write anything*
 
 Five minutes at the start saves an hour of KeyErrors. `object` = text. `int64` / `float64` = numbers.
 

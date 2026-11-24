@@ -1,6 +1,6 @@
 # The highest row, and counting
 
-*10. The row with the highest value*
+*The row with the highest value*
 
 `idxmax` finds where the biggest value is; `.loc` fetches that whole row.
 

@@ -1,6 +1,6 @@
 # Last 7, 14 or 30 days
 
-*7. Last 7 / 14 / 30 days*
+*Last 7 / 14 / 30 days*
 
 The mark scheme calls preset timeframes a higher-level answer. Count back from the newest date in the data.
 

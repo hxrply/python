@@ -1,6 +1,6 @@
 # Keep only the rows you want
 
-*4. Pick columns and filter rows*
+*Pick columns and filter rows*
 
 Filtering is how you answer "show me X". Each test goes in its own brackets.
 

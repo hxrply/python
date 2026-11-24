@@ -1,6 +1,6 @@
 # One line for every number
 
-*8. Totals, averages, highest and lowest*
+*Totals, averages, highest and lowest*
 
 Always round money to 2 dp and put words around the number.
 

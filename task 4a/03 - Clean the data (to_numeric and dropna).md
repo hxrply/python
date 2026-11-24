@@ -1,6 +1,6 @@
 # Clear the glitched items first
 
-*3. Clean the data*
+*Clean the data*
 
 A CSV is all text, and exam data has junk: blanks, "two", -3. Convert first, then bin the bad rows.
 

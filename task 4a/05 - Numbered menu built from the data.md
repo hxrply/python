@@ -1,7 +1,5 @@
 # A numbered menu built from the data
 
-*5. A numbered menu built FROM the data*
-
 Never type the options into your code - read them from the data, so it still works when the data changes.
 
 ```python

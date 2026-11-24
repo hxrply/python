@@ -1,6 +1,6 @@
 # Income and profit for every row
 
-*9. New columns: income and profit*
+*New columns: income and profit*
 
 One line works out a value for every row at once - no loop.
 

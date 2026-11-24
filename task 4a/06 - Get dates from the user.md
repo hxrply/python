@@ -1,7 +1,5 @@
 # Dates from the user
 
-*6. Dates from the user*
-
 Keep asking until the date is real. Then check the start comes before the end.
 
 ```python

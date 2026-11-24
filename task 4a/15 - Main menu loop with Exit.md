@@ -1,6 +1,6 @@
 # main ties it all together
 
-*16. The main menu loop*
+*The main menu loop*
 
 Load and clean **once**, then loop until Exit, passing df into every option.
 
