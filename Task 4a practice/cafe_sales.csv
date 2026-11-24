@@ -1,0 +1,415 @@
+Date,Product ID,Product,Category,Quantity,Cost Price,Sale Price
+01/09/2026,D02,Energy Drink,Drinks,5,0.80,2.20
+01/09/2026,S03,Popcorn,Snacks,8,0.25,1.50
+01/09/2026,H01,Pizza Slice,Hot Food,8,1.10,3.50
+01/09/2026,H02,Toastie,Hot Food,6,0.90,3.00
+01/09/2026,H03,Nachos,Hot Food,7,1.20,3.80
+02/09/2026,D01,Cola,Drinks,10,0.45,1.50
+02/09/2026,D02,Energy Drink,Drinks,1,0.80,2.20
+02/09/2026,D03,Hot Chocolate,Drinks,3,0.35,2.00
+02/09/2026,S03,Popcorn,Snacks,10,0.25,1.50
+02/09/2026,H01,Pizza Slice,Hot Food,12,1.10,3.50
+02/09/2026,H02,Toastie,Hot Food,10,0.90,3.00
+03/09/2026,D03,Hot Chocolate,Drinks,9,0.35,2.00
+03/09/2026,S02,Chocolate Bar,Snacks,1,0.40,1.20
+04/09/2026,D01,Cola,Drinks,4,0.45,1.50
+04/09/2026,D02,Energy Drink,Drinks,5,0.80,2.20
+04/09/2026,D03,Hot Chocolate,Drinks,7,0.35,2.00
+04/09/2026,S01,Crisps,Snacks,5,0.30,1.00
+04/09/2026,S02,Chocolate Bar,Snacks,10,0.40,1.20
+04/09/2026,S03,Popcorn,Snacks,6,0.25,1.50
+05/09/2026,D01,Cola,Drinks,11,0.45,1.50
+05/09/2026,D03,Hot Chocolate,Drinks,3,0.35,2.00
+05/09/2026,H03,Nachos,Hot Food,15,1.20,3.80
+06/09/2026,D01,Cola,Drinks,8,0.45,1.50
+06/09/2026,D02,Energy Drink,Drinks,11,0.80,2.20
+06/09/2026,S02,Chocolate Bar,Snacks,7,0.40,1.20
+06/09/2026,H01,Pizza Slice,Hot Food,7,1.10,3.50
+06/09/2026,H02,Toastie,Hot Food,9,0.90,3.00
+06/09/2026,H03,Nachos,Hot Food,13,1.20,3.80
+07/09/2026,D03,Hot Chocolate,Drinks,7,0.35,2.00
+07/09/2026,S01,Crisps,Snacks,16,0.30,1.00
+07/09/2026,S02,Chocolate Bar,Snacks,7,0.40,1.20
+07/09/2026,H02,Toastie,Hot Food,6,0.90,3.00
+07/09/2026,H03,Nachos,Hot Food,1,1.20,3.80
+08/09/2026,D01,Cola,Drinks,12,0.45,1.50
+08/09/2026,S01,Crisps,Snacks,5,0.30,1.00
+08/09/2026,S02,Chocolate Bar,Snacks,1,0.40,1.20
+08/09/2026,S03,Popcorn,Snacks,5,0.25,1.50
+08/09/2026,H01,Pizza Slice,Hot Food,4,1.10,3.50
+08/09/2026,H02,Toastie,Hot Food,11,0.90,3.00
+08/09/2026,H03,Nachos,Hot Food,4,1.20,3.80
+11/11/2026,D02,Energy Drink,Drinks,,0.80,2.20
+09/09/2026,D01,Cola,Drinks,8,0.45,1.50
+09/09/2026,D03,Hot Chocolate,Drinks,11,0.35,2.00
+09/09/2026,S03,Popcorn,Snacks,6,0.25,1.50
+09/09/2026,H02,Toastie,Hot Food,2,0.90,3.00
+09/09/2026,H03,Nachos,Hot Food,5,1.20,3.80
+10/09/2026,S01,Crisps,Snacks,6,0.30,1.00
+10/09/2026,S02,Chocolate Bar,Snacks,11,0.40,1.20
+10/09/2026,S03,Popcorn,Snacks,1,0.25,1.50
+10/09/2026,H01,Pizza Slice,Hot Food,10,1.10,3.50
+10/09/2026,H03,Nachos,Hot Food,8,1.20,3.80
+11/09/2026,D01,Cola,Drinks,3,0.45,1.50
+11/09/2026,D03,Hot Chocolate,Drinks,5,0.35,2.00
+11/09/2026,S01,Crisps,Snacks,1,0.30,1.00
+11/09/2026,S02,Chocolate Bar,Snacks,4,0.40,1.20
+11/09/2026,S03,Popcorn,Snacks,10,0.25,1.50
+11/09/2026,H01,Pizza Slice,Hot Food,5,1.10,3.50
+11/09/2026,H02,Toastie,Hot Food,7,0.90,3.00
+11/09/2026,H03,Nachos,Hot Food,7,1.20,3.80
+12/09/2026,D02,Energy Drink,Drinks,9,0.80,2.20
+12/09/2026,S01,Crisps,Snacks,10,0.30,1.00
+12/09/2026,H01,Pizza Slice,Hot Food,9,1.10,3.50
+12/09/2026,H02,Toastie,Hot Food,14,0.90,3.00
+12/09/2026,H03,Nachos,Hot Food,13,1.20,3.80
+13/09/2026,D01,Cola,Drinks,8,0.45,1.50
+13/09/2026,S01,Crisps,Snacks,12,0.30,1.00
+13/09/2026,S02,Chocolate Bar,Snacks,11,0.40,1.20
+13/09/2026,S03,Popcorn,Snacks,9,0.25,1.50
+13/09/2026,H02,Toastie,Hot Food,5,0.90,3.00
+13/09/2026,H03,Nachos,Hot Food,6,1.20,3.80
+14/09/2026,D01,Cola,Drinks,11,0.45,1.50
+14/09/2026,D02,Energy Drink,Drinks,3,0.80,2.20
+14/09/2026,D03,Hot Chocolate,Drinks,6,0.35,2.00
+14/09/2026,S01,Crisps,Snacks,8,0.30,1.00
+14/09/2026,H01,Pizza Slice,Hot Food,4,1.10,3.50
+15/09/2026,S01,Crisps,Snacks,3,0.30,1.00
+15/09/2026,S02,Chocolate Bar,Snacks,6,0.40,1.20
+15/09/2026,S03,Popcorn,Snacks,1,0.25,1.50
+15/09/2026,H01,Pizza Slice,Hot Food,12,1.10,3.50
+15/09/2026,H03,Nachos,Hot Food,1,1.20,3.80
+16/09/2026,S01,Crisps,Snacks,9,0.30,1.00
+16/09/2026,S02,Chocolate Bar,Snacks,9,0.40,1.20
+16/09/2026,S03,Popcorn,Snacks,5,0.25,1.50
+16/09/2026,H02,Toastie,Hot Food,2,0.90,3.00
+17/09/2026,D01,Cola,Drinks,4,0.45,1.50
+17/09/2026,D03,Hot Chocolate,Drinks,7,0.35,2.00
+17/09/2026,S02,Chocolate Bar,Snacks,9,0.40,1.20
+17/09/2026,S03,Popcorn,Snacks,7,0.25,1.50
+17/09/2026,H03,Nachos,Hot Food,4,1.20,3.80
+18/09/2026,D02,Energy Drink,Drinks,7,0.80,2.20
+18/09/2026,S01,Crisps,Snacks,5,0.30,1.00
+18/09/2026,S02,Chocolate Bar,Snacks,4,0.40,1.20
+18/09/2026,S03,Popcorn,Snacks,3,0.25,1.50
+18/09/2026,H02,Toastie,Hot Food,1,0.90,3.00
+19/09/2026,D01,Cola,Drinks,12,0.45,1.50
+19/09/2026,D02,Energy Drink,Drinks,8,0.80,2.20
+19/09/2026,S02,Chocolate Bar,Snacks,16,0.40,1.20
+19/09/2026,S03,Popcorn,Snacks,11,0.25,1.50
+20/09/2026,D01,Cola,Drinks,5,0.45,1.50
+20/09/2026,D03,Hot Chocolate,Drinks,5,0.35,2.00
+20/09/2026,S01,Crisps,Snacks,3,0.30,1.00
+20/09/2026,S02,Chocolate Bar,Snacks,12,0.40,1.20
+20/09/2026,S03,Popcorn,Snacks,11,0.25,1.50
+20/09/2026,H03,Nachos,Hot Food,8,1.20,3.80
+21/09/2026,D01,Cola,Drinks,4,0.45,1.50
+21/09/2026,S01,Crisps,Snacks,3,0.30,1.00
+21/09/2026,S02,Chocolate Bar,Snacks,7,0.40,1.20
+21/09/2026,H02,Toastie,Hot Food,5,0.90,3.00
+21/09/2026,H03,Nachos,Hot Food,2,1.20,3.80
+22/09/2026,D01,Cola,Drinks,11,0.45,1.50
+22/09/2026,D03,Hot Chocolate,Drinks,8,0.35,2.00
+22/09/2026,S03,Popcorn,Snacks,7,0.25,1.50
+23/09/2026,D02,Energy Drink,Drinks,7,0.80,2.20
+23/09/2026,D03,Hot Chocolate,Drinks,10,0.35,2.00
+23/09/2026,S02,Chocolate Bar,Snacks,9,0.40,1.20
+23/09/2026,H01,Pizza Slice,Hot Food,11,1.10,3.50
+24/09/2026,D02,Energy Drink,Drinks,3,0.80,2.20
+24/09/2026,S01,Crisps,Snacks,10,0.30,1.00
+24/09/2026,H01,Pizza Slice,Hot Food,3,1.10,3.50
+24/09/2026,H03,Nachos,Hot Food,10,1.20,3.80
+25/09/2026,D01,Cola,Drinks,1,0.45,1.50
+25/09/2026,D03,Hot Chocolate,Drinks,4,0.35,2.00
+25/09/2026,S01,Crisps,Snacks,11,0.30,1.00
+25/09/2026,S02,Chocolate Bar,Snacks,6,0.40,1.20
+25/09/2026,H02,Toastie,Hot Food,8,0.90,3.00
+26/09/2026,D01,Cola,Drinks,13,0.45,1.50
+26/09/2026,D03,Hot Chocolate,Drinks,9,0.35,2.00
+26/09/2026,S02,Chocolate Bar,Snacks,11,0.40,1.20
+26/09/2026,S03,Popcorn,Snacks,9,0.25,1.50
+26/09/2026,H01,Pizza Slice,Hot Food,9,1.10,3.50
+26/09/2026,H03,Nachos,Hot Food,7,1.20,3.80
+27/09/2026,D01,Cola,Drinks,7,0.45,1.50
+27/09/2026,D03,Hot Chocolate,Drinks,8,0.35,2.00
+27/09/2026,S02,Chocolate Bar,Snacks,8,0.40,1.20
+27/09/2026,H01,Pizza Slice,Hot Food,4,1.10,3.50
+27/09/2026,H02,Toastie,Hot Food,8,0.90,3.00
+27/09/2026,H03,Nachos,Hot Food,7,1.20,3.80
+02/10/2026,D01,Cola,Drinks,two,0.45,1.50
+28/09/2026,D03,Hot Chocolate,Drinks,4,0.35,2.00
+28/09/2026,S01,Crisps,Snacks,8,0.30,1.00
+28/09/2026,S02,Chocolate Bar,Snacks,8,0.40,1.20
+29/09/2026,D01,Cola,Drinks,8,0.45,1.50
+29/09/2026,D02,Energy Drink,Drinks,8,0.80,2.20
+29/09/2026,D03,Hot Chocolate,Drinks,6,0.35,2.00
+29/09/2026,S03,Popcorn,Snacks,4,0.25,1.50
+29/09/2026,H01,Pizza Slice,Hot Food,6,1.10,3.50
+30/09/2026,D01,Cola,Drinks,9,0.45,1.50
+30/09/2026,D03,Hot Chocolate,Drinks,7,0.35,2.00
+30/09/2026,H01,Pizza Slice,Hot Food,6,1.10,3.50
+30/09/2026,H02,Toastie,Hot Food,6,0.90,3.00
+30/09/2026,H03,Nachos,Hot Food,6,1.20,3.80
+01/10/2026,D01,Cola,Drinks,5,0.45,1.50
+01/10/2026,D03,Hot Chocolate,Drinks,4,0.35,2.00
+01/10/2026,S01,Crisps,Snacks,2,0.30,1.00
+01/10/2026,S03,Popcorn,Snacks,6,0.25,1.50
+01/10/2026,H01,Pizza Slice,Hot Food,1,1.10,3.50
+01/10/2026,H02,Toastie,Hot Food,9,0.90,3.00
+01/10/2026,H03,Nachos,Hot Food,12,1.20,3.80
+02/10/2026,D01,Cola,Drinks,6,0.45,1.50
+02/10/2026,D02,Energy Drink,Drinks,11,0.80,2.20
+03/10/2026,D02,Energy Drink,Drinks,11,0.80,2.20
+03/10/2026,S02,Chocolate Bar,Snacks,6,0.40,1.20
+03/10/2026,S03,Popcorn,Snacks,9,0.25,1.50
+03/10/2026,H02,Toastie,Hot Food,13,0.90,3.00
+04/10/2026,D01,Cola,Drinks,11,0.45,1.50
+04/10/2026,D02,Energy Drink,Drinks,10,0.80,2.20
+04/10/2026,D03,Hot Chocolate,Drinks,8,0.35,2.00
+04/10/2026,S01,Crisps,Snacks,9,0.30,1.00
+04/10/2026,H01,Pizza Slice,Hot Food,6,1.10,3.50
+04/10/2026,H02,Toastie,Hot Food,11,0.90,3.00
+04/10/2026,H03,Nachos,Hot Food,3,1.20,3.80
+05/10/2026,S02,Chocolate Bar,Snacks,9,0.40,1.20
+05/10/2026,S03,Popcorn,Snacks,3,0.25,1.50
+05/10/2026,H03,Nachos,Hot Food,10,1.20,3.80
+06/10/2026,D02,Energy Drink,Drinks,4,0.80,2.20
+06/10/2026,D03,Hot Chocolate,Drinks,4,0.35,2.00
+06/10/2026,S01,Crisps,Snacks,8,0.30,1.00
+06/10/2026,S03,Popcorn,Snacks,6,0.25,1.50
+06/10/2026,H01,Pizza Slice,Hot Food,4,1.10,3.50
+06/10/2026,H03,Nachos,Hot Food,6,1.20,3.80
+07/10/2026,D01,Cola,Drinks,5,0.45,1.50
+07/10/2026,D03,Hot Chocolate,Drinks,5,0.35,2.00
+07/10/2026,S01,Crisps,Snacks,8,0.30,1.00
+07/10/2026,S02,Chocolate Bar,Snacks,6,0.40,1.20
+07/10/2026,S03,Popcorn,Snacks,6,0.25,1.50
+07/10/2026,H03,Nachos,Hot Food,3,1.20,3.80
+08/10/2026,D01,Cola,Drinks,9,0.45,1.50
+08/10/2026,D03,Hot Chocolate,Drinks,6,0.35,2.00
+08/10/2026,H03,Nachos,Hot Food,7,1.20,3.80
+09/10/2026,D01,Cola,Drinks,6,0.45,1.50
+09/10/2026,S01,Crisps,Snacks,4,0.30,1.00
+09/10/2026,S02,Chocolate Bar,Snacks,1,0.40,1.20
+09/10/2026,H02,Toastie,Hot Food,9,0.90,3.00
+09/10/2026,H03,Nachos,Hot Food,1,1.20,3.80
+10/10/2026,D01,Cola,Drinks,7,0.45,1.50
+10/10/2026,D03,Hot Chocolate,Drinks,13,0.35,2.00
+10/10/2026,S02,Chocolate Bar,Snacks,8,0.40,1.20
+10/10/2026,S03,Popcorn,Snacks,5,0.25,1.50
+11/10/2026,D01,Cola,Drinks,14,0.45,1.50
+11/10/2026,D02,Energy Drink,Drinks,9,0.80,2.20
+11/10/2026,D03,Hot Chocolate,Drinks,7,0.35,2.00
+11/10/2026,S01,Crisps,Snacks,12,0.30,1.00
+11/10/2026,H01,Pizza Slice,Hot Food,13,1.10,3.50
+12/10/2026,D01,Cola,Drinks,4,0.45,1.50
+12/10/2026,S01,Crisps,Snacks,7,0.30,1.00
+12/10/2026,S02,Chocolate Bar,Snacks,2,0.40,1.20
+12/10/2026,S03,Popcorn,Snacks,5,0.25,1.50
+12/10/2026,H03,Nachos,Hot Food,3,1.20,3.80
+13/10/2026,D02,Energy Drink,Drinks,1,0.80,2.20
+13/10/2026,D03,Hot Chocolate,Drinks,6,0.35,2.00
+13/10/2026,S01,Crisps,Snacks,7,0.30,1.00
+13/10/2026,S02,Chocolate Bar,Snacks,4,0.40,1.20
+13/10/2026,H01,Pizza Slice,Hot Food,9,1.10,3.50
+13/10/2026,H02,Toastie,Hot Food,2,0.90,3.00
+13/10/2026,H03,Nachos,Hot Food,7,1.20,3.80
+14/10/2026,D02,Energy Drink,Drinks,5,0.80,2.20
+14/10/2026,S03,Popcorn,Snacks,6,0.25,1.50
+14/10/2026,H01,Pizza Slice,Hot Food,4,1.10,3.50
+14/10/2026,H03,Nachos,Hot Food,3,1.20,3.80
+15/10/2026,D01,Cola,Drinks,4,0.45,1.50
+15/10/2026,D02,Energy Drink,Drinks,5,0.80,2.20
+15/10/2026,S01,Crisps,Snacks,3,0.30,1.00
+15/10/2026,S02,Chocolate Bar,Snacks,7,0.40,1.20
+15/10/2026,S03,Popcorn,Snacks,7,0.25,1.50
+15/10/2026,H01,Pizza Slice,Hot Food,6,1.10,3.50
+15/10/2026,H02,Toastie,Hot Food,4,0.90,3.00
+15/10/2026,H03,Nachos,Hot Food,4,1.20,3.80
+16/10/2026,D01,Cola,Drinks,1,0.45,1.50
+16/10/2026,D02,Energy Drink,Drinks,7,0.80,2.20
+16/10/2026,D03,Hot Chocolate,Drinks,7,0.35,2.00
+16/10/2026,S01,Crisps,Snacks,9,0.30,1.00
+16/10/2026,S02,Chocolate Bar,Snacks,6,0.40,1.20
+16/10/2026,H03,Nachos,Hot Food,8,1.20,3.80
+17/10/2026,D03,Hot Chocolate,Drinks,7,0.35,2.00
+06/09/2026,D02,Energy Drink,Drinks,-3,0.80,2.20
+17/10/2026,S01,Crisps,Snacks,9,0.30,1.00
+17/10/2026,S03,Popcorn,Snacks,10,0.25,1.50
+17/10/2026,H02,Toastie,Hot Food,13,0.90,3.00
+17/10/2026,H03,Nachos,Hot Food,11,1.20,3.80
+18/10/2026,D01,Cola,Drinks,7,0.45,1.50
+18/10/2026,D03,Hot Chocolate,Drinks,8,0.35,2.00
+18/10/2026,H01,Pizza Slice,Hot Food,6,1.10,3.50
+18/10/2026,H02,Toastie,Hot Food,9,0.90,3.00
+19/10/2026,D02,Energy Drink,Drinks,3,0.80,2.20
+19/10/2026,S02,Chocolate Bar,Snacks,3,0.40,1.20
+19/10/2026,S03,Popcorn,Snacks,5,0.25,1.50
+19/10/2026,H01,Pizza Slice,Hot Food,4,1.10,3.50
+19/10/2026,H02,Toastie,Hot Food,9,0.90,3.00
+20/10/2026,D01,Cola,Drinks,6,0.45,1.50
+20/10/2026,D02,Energy Drink,Drinks,4,0.80,2.20
+20/10/2026,D03,Hot Chocolate,Drinks,1,0.35,2.00
+21/10/2026,D01,Cola,Drinks,1,0.45,1.50
+21/10/2026,S01,Crisps,Snacks,4,0.30,1.00
+21/10/2026,S02,Chocolate Bar,Snacks,4,0.40,1.20
+21/10/2026,H01,Pizza Slice,Hot Food,10,1.10,3.50
+21/10/2026,H02,Toastie,Hot Food,4,0.90,3.00
+22/10/2026,D01,Cola,Drinks,1,0.45,1.50
+22/10/2026,D02,Energy Drink,Drinks,6,0.80,2.20
+22/10/2026,D03,Hot Chocolate,Drinks,6,0.35,2.00
+22/10/2026,S01,Crisps,Snacks,5,0.30,1.00
+23/10/2026,D02,Energy Drink,Drinks,7,0.80,2.20
+23/10/2026,D03,Hot Chocolate,Drinks,6,0.35,2.00
+23/10/2026,S03,Popcorn,Snacks,2,0.25,1.50
+23/10/2026,H03,Nachos,Hot Food,8,1.20,3.80
+24/10/2026,D01,Cola,Drinks,11,0.45,1.50
+24/10/2026,S01,Crisps,Snacks,8,0.30,1.00
+24/10/2026,H02,Toastie,Hot Food,7,0.90,3.00
+24/10/2026,H03,Nachos,Hot Food,6,1.20,3.80
+25/10/2026,D01,Cola,Drinks,16,0.45,1.50
+25/10/2026,D02,Energy Drink,Drinks,13,0.80,2.20
+25/10/2026,D03,Hot Chocolate,Drinks,9,0.35,2.00
+25/10/2026,S01,Crisps,Snacks,10,0.30,1.00
+25/10/2026,H02,Toastie,Hot Food,12,0.90,3.00
+25/10/2026,H03,Nachos,Hot Food,12,1.20,3.80
+26/10/2026,D02,Energy Drink,Drinks,4,0.80,2.20
+26/10/2026,S02,Chocolate Bar,Snacks,8,0.40,1.20
+26/10/2026,H01,Pizza Slice,Hot Food,9,1.10,3.50
+27/10/2026,D01,Cola,Drinks,10,0.45,1.50
+27/10/2026,D02,Energy Drink,Drinks,9,0.80,2.20
+27/10/2026,S01,Crisps,Snacks,5,0.30,1.00
+27/10/2026,S03,Popcorn,Snacks,11,0.25,1.50
+27/10/2026,H02,Toastie,Hot Food,9,0.90,3.00
+28/10/2026,D02,Energy Drink,Drinks,4,0.80,2.20
+28/10/2026,S01,Crisps,Snacks,9,0.30,1.00
+28/10/2026,S03,Popcorn,Snacks,4,0.25,1.50
+28/10/2026,H01,Pizza Slice,Hot Food,1,1.10,3.50
+28/10/2026,H02,Toastie,Hot Food,1,0.90,3.00
+28/10/2026,H03,Nachos,Hot Food,3,1.20,3.80
+29/10/2026,D02,Energy Drink,Drinks,5,0.80,2.20
+29/10/2026,D03,Hot Chocolate,Drinks,5,0.35,2.00
+29/10/2026,S03,Popcorn,Snacks,7,0.25,1.50
+29/10/2026,H02,Toastie,Hot Food,5,0.90,3.00
+30/10/2026,D01,Cola,Drinks,1,0.45,1.50
+30/10/2026,S02,Chocolate Bar,Snacks,9,0.40,1.20
+30/10/2026,H03,Nachos,Hot Food,6,1.20,3.80
+31/10/2026,D01,Cola,Drinks,4,0.45,1.50
+31/10/2026,D02,Energy Drink,Drinks,10,0.80,2.20
+31/10/2026,S01,Crisps,Snacks,1,0.30,1.00
+31/10/2026,S02,Chocolate Bar,Snacks,11,0.40,1.20
+01/11/2026,D02,Energy Drink,Drinks,7,0.80,2.20
+02/11/2026,S03,Popcorn,,3,0.25,1.50
+01/11/2026,S02,Chocolate Bar,Snacks,13,0.40,1.20
+01/11/2026,S03,Popcorn,Snacks,5,0.25,1.50
+01/11/2026,H03,Nachos,Hot Food,4,1.20,3.80
+02/11/2026,D01,Cola,Drinks,1,0.45,1.50
+02/11/2026,D02,Energy Drink,Drinks,1,0.80,2.20
+02/11/2026,S02,Chocolate Bar,Snacks,6,0.40,1.20
+02/11/2026,S03,Popcorn,Snacks,3,0.25,1.50
+02/11/2026,H01,Pizza Slice,Hot Food,2,1.10,3.50
+02/11/2026,H03,Nachos,Hot Food,5,1.20,3.80
+03/11/2026,D01,Cola,Drinks,8,0.45,1.50
+03/11/2026,D02,Energy Drink,Drinks,2,0.80,2.20
+03/11/2026,S01,Crisps,Snacks,3,0.30,1.00
+03/11/2026,S02,Chocolate Bar,Snacks,6,0.40,1.20
+03/11/2026,S03,Popcorn,Snacks,8,0.25,1.50
+03/11/2026,H02,Toastie,Hot Food,1,0.90,3.00
+03/11/2026,H03,Nachos,Hot Food,3,1.20,3.80
+04/11/2026,D02,Energy Drink,Drinks,9,0.80,2.20
+04/11/2026,D03,Hot Chocolate,Drinks,7,0.35,2.00
+04/11/2026,S01,Crisps,Snacks,4,0.30,1.00
+04/11/2026,S02,Chocolate Bar,Snacks,6,0.40,1.20
+04/11/2026,H02,Toastie,Hot Food,9,0.90,3.00
+05/11/2026,D02,Energy Drink,Drinks,1,0.80,2.20
+05/11/2026,S01,Crisps,Snacks,4,0.30,1.00
+05/11/2026,S03,Popcorn,Snacks,8,0.25,1.50
+05/11/2026,H03,Nachos,Hot Food,4,1.20,3.80
+07/11/2026,D01,Cola,Drinks,5,0.45,1.50
+07/11/2026,D03,Hot Chocolate,Drinks,11,0.35,2.00
+07/11/2026,S01,Crisps,Snacks,9,0.30,1.00
+07/11/2026,S02,Chocolate Bar,Snacks,7,0.40,1.20
+07/11/2026,S03,Popcorn,Snacks,13,0.25,1.50
+07/11/2026,H03,Nachos,Hot Food,8,1.20,3.80
+23/09/2026,D02,Energy Drink,Drinks,abc,0.80,2.20
+08/11/2026,D02,Energy Drink,Drinks,11,0.80,2.20
+08/11/2026,D03,Hot Chocolate,Drinks,4,0.35,2.00
+08/11/2026,S01,Crisps,Snacks,11,0.30,1.00
+09/11/2026,D02,Energy Drink,Drinks,5,0.80,2.20
+09/11/2026,S01,Crisps,Snacks,2,0.30,1.00
+10/11/2026,D01,Cola,Drinks,5,0.45,1.50
+10/11/2026,D02,Energy Drink,Drinks,12,0.80,2.20
+10/11/2026,S02,Chocolate Bar,Snacks,6,0.40,1.20
+10/11/2026,S03,Popcorn,Snacks,8,0.25,1.50
+10/11/2026,H01,Pizza Slice,Hot Food,1,1.10,3.50
+10/11/2026,H02,Toastie,Hot Food,10,0.90,3.00
+10/11/2026,H03,Nachos,Hot Food,11,1.20,3.80
+11/11/2026,D01,Cola,Drinks,11,0.45,1.50
+11/11/2026,D02,Energy Drink,Drinks,9,0.80,2.20
+11/11/2026,D03,Hot Chocolate,Drinks,3,0.35,2.00
+11/11/2026,S02,Chocolate Bar,Snacks,1,0.40,1.20
+11/11/2026,H01,Pizza Slice,Hot Food,4,1.10,3.50
+11/11/2026,H02,Toastie,Hot Food,6,0.90,3.00
+11/11/2026,H03,Nachos,Hot Food,6,1.20,3.80
+12/11/2026,D01,Cola,Drinks,5,0.45,1.50
+12/11/2026,D02,Energy Drink,Drinks,11,0.80,2.20
+12/11/2026,D03,Hot Chocolate,Drinks,4,0.35,2.00
+12/11/2026,S02,Chocolate Bar,Snacks,8,0.40,1.20
+12/11/2026,S03,Popcorn,Snacks,5,0.25,1.50
+12/11/2026,H01,Pizza Slice,Hot Food,10,1.10,3.50
+12/11/2026,H02,Toastie,Hot Food,10,0.90,3.00
+13/11/2026,D03,Hot Chocolate,Drinks,6,0.35,2.00
+13/11/2026,S01,Crisps,Snacks,3,0.30,1.00
+13/11/2026,S03,Popcorn,Snacks,6,0.25,1.50
+13/11/2026,H01,Pizza Slice,Hot Food,3,1.10,3.50
+13/11/2026,H03,Nachos,Hot Food,9,1.20,3.80
+14/11/2026,D01,Cola,Drinks,14,0.45,1.50
+14/11/2026,D03,Hot Chocolate,Drinks,11,0.35,2.00
+14/11/2026,S01,Crisps,Snacks,11,0.30,1.00
+14/11/2026,S03,Popcorn,Snacks,14,0.25,1.50
+14/11/2026,H01,Pizza Slice,Hot Food,10,1.10,3.50
+14/11/2026,H02,Toastie,Hot Food,10,0.90,3.00
+15/11/2026,D01,Cola,Drinks,10,0.45,1.50
+15/11/2026,D03,Hot Chocolate,Drinks,10,0.35,2.00
+15/11/2026,S01,Crisps,Snacks,6,0.30,1.00
+15/11/2026,S02,Chocolate Bar,Snacks,10,0.40,1.20
+15/11/2026,H02,Toastie,Hot Food,9,0.90,3.00
+15/11/2026,H03,Nachos,Hot Food,10,1.20,3.80
+16/11/2026,D01,Cola,Drinks,5,0.45,1.50
+16/11/2026,D02,Energy Drink,Drinks,4,0.80,2.20
+16/11/2026,S01,Crisps,Snacks,2,0.30,1.00
+16/11/2026,S02,Chocolate Bar,Snacks,5,0.40,1.20
+16/11/2026,S03,Popcorn,Snacks,5,0.25,1.50
+16/11/2026,H02,Toastie,Hot Food,1,0.90,3.00
+16/11/2026,H03,Nachos,Hot Food,14,1.20,3.80
+17/11/2026,D01,Cola,Drinks,4,0.45,1.50
+17/11/2026,H01,Pizza Slice,Hot Food,5,1.10,3.50
+17/11/2026,H02,Toastie,Hot Food,6,0.90,3.00
+17/11/2026,H03,Nachos,Hot Food,8,1.20,3.80
+18/11/2026,D01,Cola,Drinks,8,0.45,1.50
+18/11/2026,D03,Hot Chocolate,Drinks,7,0.35,2.00
+18/11/2026,S01,Crisps,Snacks,6,0.30,1.00
+18/11/2026,S03,Popcorn,Snacks,5,0.25,1.50
+18/11/2026,H01,Pizza Slice,Hot Food,5,1.10,3.50
+19/11/2026,D02,Energy Drink,Drinks,1,0.80,2.20
+19/11/2026,D03,Hot Chocolate,Drinks,3,0.35,2.00
+19/11/2026,H03,Nachos,Hot Food,9,1.20,3.80
+20/11/2026,D02,Energy Drink,Drinks,4,0.80,2.20
+20/11/2026,D03,Hot Chocolate,Drinks,4,0.35,2.00
+20/11/2026,S02,Chocolate Bar,Snacks,6,0.40,1.20
+21/11/2026,D03,Hot Chocolate,Drinks,5,0.35,2.00
+21/11/2026,S03,Popcorn,Snacks,11,0.25,1.50
+21/11/2026,H01,Pizza Slice,Hot Food,13,1.10,3.50
+21/11/2026,H02,Toastie,Hot Food,15,0.90,3.00
+22/11/2026,D01,Cola,Drinks,9,0.45,1.50
+22/11/2026,D02,Energy Drink,Drinks,9,0.80,2.20
+22/11/2026,S01,Crisps,Snacks,9,0.30,1.00
+22/11/2026,S02,Chocolate Bar,Snacks,8,0.40,1.20
+22/11/2026,H03,Nachos,Hot Food,12,1.20,3.80
+23/11/2026,D01,Cola,Drinks,8,0.45,1.50
+23/11/2026,D03,Hot Chocolate,Drinks,9,0.35,2.00
+23/11/2026,S02,Chocolate Bar,Snacks,3,0.40,1.20
+23/11/2026,H01,Pizza Slice,Hot Food,6,1.10,3.50
+23/11/2026,H02,Toastie,Hot Food,5,0.90,3.00
+23/11/2026,H03,Nachos,Hot Food,10,1.20,3.80
+11/10/2026,H01,Pizza Slice,Hot Food,,1.10,3.50
