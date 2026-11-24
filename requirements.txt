@@ -1,0 +1,6 @@
+# Extra tools used by python_checker.py
+# Install with:  python -m pip install -r requirements.txt
+ruff>=0.5
+pylint>=3.0
+mypy>=1.0
+bandit>=1.7
