@@ -1,6 +1,6 @@
 # Load the CSV once
 
-*1. Import and load the CSV once*
+*Import and load the CSV once*
 
 Like loading a save file. Do it once in main, then pass **df** to everything else. `try` = attempt the jump, `except` = the checkpoint if you fall.
 

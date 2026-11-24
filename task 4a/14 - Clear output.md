@@ -1,6 +1,6 @@
 # Output that makes sense
 
-*15. Output that makes sense to the user*
+*Output that makes sense to the user*
 
 Words around every number. No index column. A heading that says what and when.
 

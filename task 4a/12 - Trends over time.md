@@ -1,7 +1,5 @@
 # Trends over time
 
-*13. Trends over time*
-
 "Trends over time" is in every Task 4a brief. Group by day or month, then compare first and last.
 
 ```python

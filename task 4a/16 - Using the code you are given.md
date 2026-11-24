@@ -1,6 +1,6 @@
 # Use their file, don't ignore it
 
-*17. Using the code you are given*
+*Using the code you are given*
 
 Task 4a gives you a Python file. Your solution has to use it. Option A: import it. Option B: copy their function in.
 

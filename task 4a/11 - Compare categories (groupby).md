@@ -1,6 +1,6 @@
 # Compare every group in one line
 
-*12. Compare groups with groupby*
+*Compare groups with groupby*
 
 "Compare all categories" is a higher-level answer in the mark scheme. groupby = split, then add up.
 

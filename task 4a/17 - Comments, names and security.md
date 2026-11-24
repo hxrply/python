@@ -1,7 +1,5 @@
 # Comments, names and security
 
-*18. Comments, names and security*
-
 Code organisation (8) + Security (6) = 14 marks. None of it needs new pandas.
 
 ```python

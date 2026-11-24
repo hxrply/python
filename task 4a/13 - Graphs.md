@@ -1,6 +1,6 @@
 # Graphs - your biggest gap from May
 
-*14. Graphs*
+*Graphs*
 
 **Line** for a trend over time. **Bar** to compare groups. Always a **title**. Always **both axis labels**.
 
