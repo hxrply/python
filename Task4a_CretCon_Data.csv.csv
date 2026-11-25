@@ -1,0 +1,403 @@
+Day,Date,Venue,Event Type,Attendance,Income Booking Fee,Income Food and Drink
+Friday,10/04/2026,Glenstark Arena,Convention,7112,15920,71120
+Friday,10/04/2026,Exhibition Hall 2,Theatre,715,2975,5005
+Friday,10/04/2026,Conference Hall A,Theatre,2294,5320,18352
+Friday,10/04/2026,CretCon Arena,Corporate Event,5818,8955,63998
+Friday,10/04/2026,Conference Hall B,Corporate Event,2868,3040,20076
+Friday,10/04/2026,Exhibition Hall 1,Comedy Show,416,3150,3328
+Saturday,11/04/2026,Exhibition Hall 1,Comedy Show,695,4025,5560
+Saturday,11/04/2026,Conference Hall B,Corporate Event,2794,3420,16764
+Saturday,11/04/2026,Exhibition Hall 2,Corporate Event,701,1750,4907
+Saturday,11/04/2026,Conference Hall A,Comedy Show,2808,3800,22464
+Saturday,11/04/2026,Glenstark Arena,Comedy Show,12500,23880,112500
+Wednesday,15/04/2026,CretCon Arena,Music Concert,8785,9950,70280
+Wednesday,15/04/2026,Conference Hall A,Comedy Show,3003,4560,18018
+Wednesday,15/04/2026,Exhibition Hall 1,Comedy Show,624,2800,5616
+Friday,17/04/2026,Glenstark Arena,Convention,6677,19900,80124
+Friday,17/04/2026,Exhibition Hall 1,Convention,628,4025,5652
+Friday,17/04/2026,CretCon Arena,Comedy Show,12576,12935,88032
+Friday,17/04/2026,Conference Hall A,Corporate Event,4255,4180,21275
+Saturday,18/04/2026,Exhibition Hall 2,Convention,615,2450,3690
+Saturday,18/04/2026,Conference Hall B,Comedy Show,3319,3040,16595
+Saturday,18/04/2026,Glenstark Arena,Music Concert,7275,17910,65475
+Saturday,18/04/2026,CretCon Arena,Convention,8158,62685,81580
+Saturday,18/04/2026,Exhibition Hall 1,Convention,537,4025,3759
+Saturday,18/04/2026,Conference Hall A,Convention,4198,3420,29386
+Friday,24/04/2026,Conference Hall A,Convention,1662,5320,9972
+Friday,24/04/2026,Glenstark Arena,Convention,9198,9950,82782
+Friday,24/04/2026,Conference Hall B,Convention,2702,3040,16212
+Friday,24/04/2026,Exhibition Hall 2,Corporate Event,600,2100,4200
+Friday,24/04/2026,Exhibition Hall 1,Theatre,825,4025,7425
+Friday,24/04/2026,CretCon Arena,Comedy Show,5357,46765,58927
+Saturday,25/04/2026,Conference Hall B,Convention,3476,3800,24332
+Saturday,25/04/2026,CretCon Arena,Convention,13511,54725,162132
+Saturday,25/04/2026,Glenstark Arena,Comedy Show,7419,16915,89028
+Saturday,25/04/2026,Exhibition Hall 2,Convention,999,1750,6993
+Saturday,25/04/2026,Conference Hall A,Theatre,4965,6080,34755
+Saturday,25/04/2026,Exhibition Hall 1,Corporate Event,510,2800,3570
+Wednesday,29/04/2026,Glenstark Arena,Music Concert,10507,13930,115577
+Wednesday,29/04/2026,Conference Hall B,Convention,3505,3040,17525
+Wednesday,29/04/2026,Conference Hall A,Theatre,1749,4180,12243
+Wednesday,29/04/2026,CretCon Arena,Music Concert,10126,9950,81008
+Thursday,30/04/2026,Conference Hall B,Music Concert,3315,4180,16575
+Thursday,30/04/2026,Exhibition Hall 1,Theatre,602,2625,4214
+Thursday,30/04/2026,Glenstark Arena,Comedy Show,6246,12935,62460
+Friday,01/05/2026,Conference Hall A,Music Concert,1786,5320,14288
+Friday,01/05/2026,Conference Hall B,Convention,2560,3800,12800
+Friday,01/05/2026,Exhibition Hall 2,Theatre,929,2800,3716
+Friday,01/05/2026,CretCon Arena,Comedy Show,13016,23880,143176
+Friday,01/05/2026,Exhibition Hall 1,Music Concert,468,2975,3276
+Saturday,02/05/2026,Conference Hall A,Theatre,4728,6080,37824
+Saturday,02/05/2026,Conference Hall B,Comedy Show,3798,2280,22788
+Saturday,02/05/2026,Exhibition Hall 1,Comedy Show,353,2975,2118
+Saturday,02/05/2026,Exhibition Hall 2,Convention,879,2450,3516
+Saturday,02/05/2026,Glenstark Arena,Convention,8512,12935,85120
+Wednesday,06/05/2026,Conference Hall B,Convention,2292,2660,11460
+Wednesday,06/05/2026,CretCon Arena,Music Concert,8142,10945,56994
+Wednesday,06/05/2026,Glenstark Arena,Theatre,5993,10945,65923
+Friday,08/05/2026,Glenstark Arena,Comedy Show,6952,22885,69520
+Friday,08/05/2026,Exhibition Hall 2,Theatre,742,2800,3710
+Friday,08/05/2026,Conference Hall B,Theatre,3735,3800,22410
+Friday,08/05/2026,CretCon Arena,Theatre,7809,52735,46854
+Friday,08/05/2026,Exhibition Hall 1,Music Concert,783,2100,4698
+Saturday,09/05/2026,CretCon Arena,Convention,8550,36815,102600
+Saturday,09/05/2026,Conference Hall B,Comedy Show,1768,2660,12376
+Saturday,09/05/2026,Glenstark Arena,Comedy Show,7554,16915,98202
+Saturday,09/05/2026,Conference Hall A,Music Concert,4580,4940,22900
+Friday,15/05/2026,CretCon Arena,Comedy Show,6544,33830,45808
+Friday,15/05/2026,Conference Hall B,Comedy Show,3753,3040,18765
+Friday,15/05/2026,Exhibition Hall 1,Corporate Event,409,3325,2863
+Friday,15/05/2026,Exhibition Hall 2,Convention,955,3150,5730
+Saturday,16/05/2026,CretCon Arena,Convention,13562,20895,122058
+Saturday,16/05/2026,Conference Hall A,Theatre,2790,3800,13950
+Saturday,16/05/2026,Glenstark Arena,Comedy Show,5166,11940,51660
+Saturday,16/05/2026,Conference Hall B,Theatre,1402,3800,7010
+Saturday,16/05/2026,Exhibition Hall 2,Comedy Show,628,1400,2512
+Tuesday,19/05/2026,Conference Hall A,Theatre,2678,4560,18746
+Tuesday,19/05/2026,Exhibition Hall 1,Convention,656,2800,3936
+Thursday,21/05/2026,Glenstark Arena,Convention,8571,10945,119994
+Thursday,21/05/2026,Exhibition Hall 1,Comedy Show,333,2100,2664
+Friday,22/05/2026,Conference Hall A,Convention,4117,5700,28819
+Friday,22/05/2026,Exhibition Hall 2,Music Concert,856,2975,5136
+Friday,22/05/2026,CretCon Arena,Convention,9907,16915,89163
+Friday,22/05/2026,Conference Hall B,Corporate Event,3407,3800,23849
+Friday,22/05/2026,Exhibition Hall 1,Comedy Show,539,2450,3234
+Friday,22/05/2026,Glenstark Arena,Theatre,13161,15920,144771
+Saturday,23/05/2026,Exhibition Hall 2,Corporate Event,849,1575,5943
+Saturday,23/05/2026,Conference Hall A,Music Concert,2554,4180,15324
+Saturday,23/05/2026,CretCon Arena,Convention,12289,63680,110601
+Saturday,23/05/2026,Glenstark Arena,Corporate Event,12087,19900,145044
+Saturday,23/05/2026,Exhibition Hall 1,Music Concert,589,3325,4123
+Wednesday,27/05/2026,Conference Hall A,Comedy Show,2110,4180,16880
+Wednesday,27/05/2026,Glenstark Arena,Corporate Event,5772,11940,63492
+Wednesday,27/05/2026,Exhibition Hall 1,Theatre,415,2450,2905
+Friday,29/05/2026,Conference Hall B,Convention,2797,4560,19579
+Friday,29/05/2026,Exhibition Hall 2,Convention,909,1750,5454
+Friday,29/05/2026,Glenstark Arena,Music Concert,13799,12935,193186
+Friday,29/05/2026,CretCon Arena,Comedy Show,5145,43780,61740
+Saturday,30/05/2026,CretCon Arena,Corporate Event,7145,38805,71450
+Saturday,30/05/2026,Conference Hall B,Music Concert,2299,3040,13794
+Saturday,30/05/2026,Glenstark Arena,Comedy Show,10968,21890,109680
+Saturday,30/05/2026,Exhibition Hall 2,Theatre,772,3150,4632
+Saturday,30/05/2026,Exhibition Hall 1,Theatre,552,2450,4968
+Saturday,30/05/2026,Conference Hall A,Convention,2977,4940,14885
+Wednesday,03/06/2026,CretCon Arena,Music Concert,7078,8955,77858
+Wednesday,03/06/2026,Conference Hall B,Comedy Show,1775,2280,12425
+Wednesday,03/06/2026,Conference Hall A,Convention,1339,3800,9373
+Wednesday,03/06/2026,Exhibition Hall 2,Corporate Event,924,1575,4620
+Thursday,04/06/2026,Glenstark Arena,Music Concert,6693,10945,60237
+Thursday,04/06/2026,CretCon Arena,Convention,8678,8955,52068
+Thursday,04/06/2026,Exhibition Hall 2,Music Concert,846,1750,6768
+Friday,05/06/2026,Glenstark Arena,Music Concert,7530,16915,97890
+Friday,05/06/2026,Conference Hall A,Theatre,3268,5700,19608
+Friday,05/06/2026,Conference Hall B,Comedy Show,1467,3420,10269
+Friday,05/06/2026,Exhibition Hall 2,Music Concert,660,2800,3960
+Friday,05/06/2026,Exhibition Hall 1,Convention,781,2625,5467
+Saturday,06/06/2026,Exhibition Hall 1,Comedy Show,733,2800,5864
+Saturday,06/06/2026,Conference Hall A,Comedy Show,4059,3420,28413
+Saturday,06/06/2026,Glenstark Arena,Convention,8185,11940,98220
+Saturday,06/06/2026,CretCon Arena,Comedy Show,9284,63680,74272
+Saturday,06/06/2026,Conference Hall B,Music Concert,1273,3420,8911
+Saturday,06/06/2026,Exhibition Hall 2,Comedy Show,988,2625,5928
+Tuesday,09/06/2026,Conference Hall A,Corporate Event,2022,4180,10110
+Tuesday,09/06/2026,Conference Hall B,Comedy Show,3357,3800,20142
+Tuesday,09/06/2026,Exhibition Hall 1,Theatre,579,2800,4053
+Tuesday,09/06/2026,Glenstark Arena,Music Concert,9002,13930,108024
+Thursday,11/06/2026,Conference Hall B,Theatre,1238,4940,8666
+Thursday,11/06/2026,Conference Hall A,Music Concert,3851,4180,30808
+Thursday,11/06/2026,Glenstark Arena,Theatre,7077,9950,99078
+Friday,12/06/2026,Conference Hall A,Corporate Event,3989,6080,31912
+Friday,12/06/2026,Glenstark Arena,Corporate Event,6324,22885,69564
+Friday,12/06/2026,CretCon Arena,Comedy Show,8034,20895,72306
+Friday,12/06/2026,Exhibition Hall 1,Comedy Show,897,3850,5382
+Saturday,13/06/2026,Exhibition Hall 2,Music Concert,666,2450,3996
+Saturday,13/06/2026,Conference Hall B,Music Concert,1342,4560,9394
+Saturday,13/06/2026,Glenstark Arena,Comedy Show,12115,16915,133265
+Saturday,13/06/2026,Exhibition Hall 1,Theatre,337,4025,2359
+Saturday,13/06/2026,CretCon Arena,Theatre,8392,48755,50352
+Saturday,13/06/2026,Conference Hall A,Comedy Show,4982,6080,24910
+Friday,19/06/2026,CretCon Arena,Music Concert,6136,25870,36816
+Friday,19/06/2026,Conference Hall A,Convention,4767,5320,23835
+Friday,19/06/2026,Glenstark Arena,Convention,9226,9950,110712
+Friday,19/06/2026,Exhibition Hall 2,Convention,789,2800,5523
+Friday,19/06/2026,Exhibition Hall 1,Comedy Show,591,3675,4728
+Saturday,20/06/2026,Exhibition Hall 2,Music Concert,968,2275,6776
+Saturday,20/06/2026,Exhibition Hall 1,Comedy Show,458,3325,2748
+Saturday,20/06/2026,CretCon Arena,Comedy Show,13512,9950,94584
+Saturday,20/06/2026,Conference Hall B,Convention,2688,2660,16128
+Saturday,20/06/2026,Glenstark Arena,Theatre,10517,21890,94653
+Friday,26/06/2026,Exhibition Hall 1,Corporate Event,861,2800,5166
+Friday,26/06/2026,CretCon Arena,Convention,13999,61690,97993
+Friday,26/06/2026,Glenstark Arena,Theatre,5993,12935,77909
+Friday,26/06/2026,Exhibition Hall 2,Comedy Show,644,1575,5152
+Friday,26/06/2026,Conference Hall A,Music Concert,1219,6080,8533
+Saturday,27/06/2026,Conference Hall B,Music Concert,1751,4180,12257
+Saturday,27/06/2026,Exhibition Hall 1,Comedy Show,527,2975,3162
+Saturday,27/06/2026,Exhibition Hall 2,Theatre,972,2625,5832
+Saturday,27/06/2026,Glenstark Arena,Music Concert,8523,13930,102276
+Saturday,27/06/2026,Conference Hall A,Corporate Event,1100,3800,6600
+Wednesday,01/07/2026,Glenstark Arena,Corporate Event,9688,8955,106568
+Wednesday,01/07/2026,CretCon Arena,Theatre,8384,10945,100608
+Friday,03/07/2026,Exhibition Hall 1,Convention,786,4025,4716
+Friday,03/07/2026,Conference Hall A,Comedy Show,3644,3420,29152
+Friday,03/07/2026,CretCon Arena,Music Concert,7399,28855,73990
+Friday,03/07/2026,Conference Hall B,Theatre,1133,2660,7931
+Friday,03/07/2026,Glenstark Arena,Corporate Event,9672,23880,135408
+Friday,03/07/2026,Exhibition Hall 2,Music Concert,698,2100,4886
+Saturday,04/07/2026,Conference Hall A,Convention,2103,4180,14721
+Saturday,04/07/2026,Exhibition Hall 1,Theatre,875,3325,7000
+Saturday,04/07/2026,Conference Hall B,Corporate Event,1984,4180,11904
+Saturday,04/07/2026,Glenstark Arena,Convention,14451,11940,173412
+Saturday,04/07/2026,CretCon Arena,Comedy Show,6011,42785,66121
+Tuesday,07/07/2026,Conference Hall A,Corporate Event,2402,4560,12010
+Tuesday,07/07/2026,Glenstark Arena,Music Concert,5999,9950,77987
+Tuesday,07/07/2026,CretCon Arena,Theatre,6867,8955,75537
+Friday,10/07/2026,Exhibition Hall 1,Convention,571,4025,5139
+Friday,10/07/2026,Exhibition Hall 2,Corporate Event,943,1750,5658
+Friday,10/07/2026,Glenstark Arena,Music Concert,6703,18905,87139
+Friday,10/07/2026,Conference Hall B,Theatre,3098,2280,15490
+Friday,10/07/2026,Conference Hall A,Music Concert,3396,4560,16980
+Friday,10/07/2026,CretCon Arena,Music Concert,9071,15920,63497
+Saturday,11/07/2026,Exhibition Hall 1,Corporate Event,773,2450,6184
+Saturday,11/07/2026,Exhibition Hall 2,Comedy Show,823,2275,3292
+Saturday,11/07/2026,Conference Hall B,Theatre,2575,3800,15450
+Saturday,11/07/2026,Glenstark Arena,Theatre,5480,16915,54800
+Saturday,11/07/2026,Conference Hall A,Convention,2356,3420,14136
+Friday,17/07/2026,Conference Hall A,Theatre,3204,5320,19224
+Friday,17/07/2026,Exhibition Hall 1,Comedy Show,498,4200,3486
+Friday,17/07/2026,Exhibition Hall 2,Corporate Event,898,2975,3592
+Friday,17/07/2026,Conference Hall B,Theatre,2037,3800,10185
+Saturday,18/07/2026,Glenstark Arena,Theatre,12081,15920,132891
+Saturday,18/07/2026,Conference Hall B,Theatre,1821,4180,10926
+Saturday,18/07/2026,Exhibition Hall 2,Music Concert,649,1575,3894
+Saturday,18/07/2026,CretCon Arena,Convention,10246,53730,102460
+Saturday,18/07/2026,Conference Hall A,Music Concert,4616,4940,32312
+Saturday,18/07/2026,Exhibition Hall 1,Theatre,503,2100,3018
+Tuesday,21/07/2026,Conference Hall A,Corporate Event,3448,4560,20688
+Tuesday,21/07/2026,Exhibition Hall 2,Theatre,666,2100,3330
+Tuesday,21/07/2026,Conference Hall B,Comedy Show,2533,2660,12665
+Tuesday,21/07/2026,Glenstark Arena,Music Concert,6561,13930,65610
+Friday,24/07/2026,Conference Hall B,Music Concert,1812,4180,10872
+Friday,24/07/2026,Exhibition Hall 1,Music Concert,682,2625,4774
+Friday,24/07/2026,Exhibition Hall 2,Theatre,744,2625,5208
+Friday,24/07/2026,Conference Hall A,Music Concert,4010,5320,20050
+Friday,24/07/2026,CretCon Arena,Theatre,8622,53730,86220
+Friday,24/07/2026,Glenstark Arena,Comedy Show,14114,9950,141140
+Saturday,25/07/2026,Glenstark Arena,Music Concert,11645,10945,151385
+Saturday,25/07/2026,CretCon Arena,Music Concert,5553,31840,66636
+Saturday,25/07/2026,Conference Hall A,Convention,1857,5320,14856
+Saturday,25/07/2026,Exhibition Hall 1,Comedy Show,725,3150,5075
+Tuesday,28/07/2026,Glenstark Arena,Convention,5319,8955,53190
+Tuesday,28/07/2026,CretCon Arena,Comedy Show,11404,11940,91232
+Tuesday,28/07/2026,Exhibition Hall 2,Convention,927,1925,6489
+Tuesday,28/07/2026,Exhibition Hall 1,Corporate Event,463,2625,3704
+Friday,31/07/2026,Glenstark Arena,Theatre,6130,23880,79690
+Friday,31/07/2026,Exhibition Hall 2,Theatre,741,2975,5187
+Friday,31/07/2026,Conference Hall A,Music Concert,4096,3420,32768
+Friday,31/07/2026,Conference Hall B,Corporate Event,2762,2280,19334
+Friday,31/07/2026,Exhibition Hall 1,Convention,633,4200,4431
+Friday,31/07/2026,CretCon Arena,Comedy Show,7286,34825,87432
+Saturday,01/08/2026,Exhibition Hall 2,Convention,892,2800,2676
+Saturday,01/08/2026,CretCon Arena,Corporate Event,9625,66665,57750
+Saturday,01/08/2026,Conference Hall B,Convention,2372,3800,16604
+Saturday,01/08/2026,Conference Hall A,Comedy Show,2204,4940,13224
+Tuesday,04/08/2026,Exhibition Hall 2,Music Concert,662,1925,4634
+Tuesday,04/08/2026,Glenstark Arena,Corporate Event,8204,11940,114856
+Tuesday,04/08/2026,Conference Hall A,Corporate Event,1600,3800,9600
+Tuesday,04/08/2026,CretCon Arena,Theatre,6558,11940,39348
+Wednesday,05/08/2026,Glenstark Arena,Comedy Show,5425,10945,65100
+Wednesday,05/08/2026,Exhibition Hall 1,Corporate Event,400,2800,2400
+Wednesday,05/08/2026,Conference Hall A,Corporate Event,1566,4180,12528
+Thursday,06/08/2026,Exhibition Hall 2,Convention,682,1400,2046
+Thursday,06/08/2026,Glenstark Arena,Music Concert,8670,10945,112710
+Thursday,06/08/2026,CretCon Arena,Corporate Event,9200,8955,55200
+Thursday,06/08/2026,Exhibition Hall 1,Corporate Event,700,2800,6300
+Friday,07/08/2026,Conference Hall A,Theatre,2867,5700,22936
+Friday,07/08/2026,Exhibition Hall 2,Theatre,696,2275,4176
+Friday,07/08/2026,Glenstark Arena,Theatre,14493,16915,173916
+Friday,07/08/2026,CretCon Arena,Theatre,9925,11940,109175
+Saturday,08/08/2026,Glenstark Arena,Convention,5623,9950,61853
+Saturday,08/08/2026,Conference Hall A,Comedy Show,4591,3800,22955
+Saturday,08/08/2026,Conference Hall B,Music Concert,1337,2280,8022
+Saturday,08/08/2026,Exhibition Hall 2,Convention,748,2100,2244
+Wednesday,12/08/2026,CretCon Arena,Convention,10106,10945,111166
+Wednesday,12/08/2026,Conference Hall B,Theatre,1120,3800,7840
+Wednesday,12/08/2026,Exhibition Hall 2,Music Concert,587,1575,4696
+Wednesday,12/08/2026,Exhibition Hall 1,Corporate Event,315,2800,2520
+Friday,14/08/2026,Conference Hall B,Theatre,2398,3800,16786
+Friday,14/08/2026,Glenstark Arena,Convention,10773,23880,129276
+Friday,14/08/2026,Exhibition Hall 2,Comedy Show,955,2100,6685
+Friday,14/08/2026,CretCon Arena,Music Concert,7842,10945,62736
+Saturday,15/08/2026,Conference Hall A,Music Concert,2673,4180,13365
+Saturday,15/08/2026,Conference Hall B,Theatre,1732,3420,8660
+Saturday,15/08/2026,Exhibition Hall 1,Music Concert,751,2450,5257
+Saturday,15/08/2026,Exhibition Hall 2,Comedy Show,958,1925,4790
+Saturday,15/08/2026,CretCon Arena,Convention,13435,65670,147785
+Tuesday,18/08/2026,Conference Hall A,Music Concert,2079,4560,16632
+Tuesday,18/08/2026,Exhibition Hall 2,Comedy Show,465,2100,1860
+Thursday,20/08/2026,Conference Hall B,Theatre,3133,4560,15665
+Thursday,20/08/2026,CretCon Arena,Theatre,9739,10945,77912
+Thursday,20/08/2026,Exhibition Hall 1,Convention,317,2275,2536
+Friday,21/08/2026,Conference Hall A,Music Concert,3414,4940,27312
+Friday,21/08/2026,Glenstark Arena,Comedy Show,7147,18905,71470
+Friday,21/08/2026,CretCon Arena,Convention,13136,67660,144496
+Friday,21/08/2026,Exhibition Hall 2,Convention,922,1575,7376
+Saturday,22/08/2026,Glenstark Arena,Corporate Event,11945,18905,155285
+Saturday,22/08/2026,Exhibition Hall 1,Corporate Event,833,2100,6664
+Saturday,22/08/2026,CretCon Arena,Theatre,5813,48755,40691
+Saturday,22/08/2026,Conference Hall A,Convention,2441,3420,17087
+Saturday,22/08/2026,Exhibition Hall 2,Comedy Show,721,1750,5768
+Wednesday,26/08/2026,CretCon Arena,Comedy Show,8200,11940,49200
+Wednesday,26/08/2026,Exhibition Hall 1,Music Concert,532,2275,3192
+Friday,28/08/2026,Exhibition Hall 1,Comedy Show,734,2800,6606
+Friday,28/08/2026,Conference Hall A,Theatre,4143,4560,24858
+Friday,28/08/2026,CretCon Arena,Music Concert,13884,11940,138840
+Friday,28/08/2026,Exhibition Hall 2,Convention,878,3150,7024
+Friday,28/08/2026,Glenstark Arena,Corporate Event,5329,14925,63948
+Saturday,29/08/2026,Conference Hall A,Music Concert,1192,4560,5960
+Saturday,29/08/2026,Exhibition Hall 2,Theatre,975,3150,3900
+Saturday,29/08/2026,Glenstark Arena,Comedy Show,8295,14925,99540
+Saturday,29/08/2026,CretCon Arena,Comedy Show,7487,36815,44922
+Saturday,29/08/2026,Conference Hall B,Theatre,1098,3420,5490
+Tuesday,01/09/2026,Conference Hall A,Theatre,1218,3800,6090
+Tuesday,01/09/2026,Exhibition Hall 1,Theatre,336,2100,2688
+Friday,04/09/2026,Conference Hall A,Music Concert,2100,4940,16800
+Friday,04/09/2026,Glenstark Arena,Convention,7772,22885,101036
+Friday,04/09/2026,Conference Hall B,Music Concert,2026,3420,14182
+Friday,04/09/2026,Exhibition Hall 2,Theatre,687,2975,2748
+Saturday,05/09/2026,Conference Hall A,Convention,3080,4180,24640
+Saturday,05/09/2026,CretCon Arena,Convention,14964,47760,164604
+Saturday,05/09/2026,Conference Hall B,Music Concert,1493,4560,8958
+Saturday,05/09/2026,Glenstark Arena,Corporate Event,12800,23880,115200
+Tuesday,08/09/2026,CretCon Arena,Theatre,7527,10945,52689
+Tuesday,08/09/2026,Conference Hall B,Convention,3792,4180,26544
+Friday,11/09/2026,Conference Hall B,Corporate Event,3912,3420,19560
+Friday,11/09/2026,Exhibition Hall 2,Comedy Show,973,3150,4865
+Friday,11/09/2026,Glenstark Arena,Convention,9155,14925,91550
+Friday,11/09/2026,Conference Hall A,Convention,1491,4940,11928
+Friday,11/09/2026,CretCon Arena,Convention,5583,19900,61413
+Saturday,12/09/2026,Exhibition Hall 2,Comedy Show,753,2450,4518
+Saturday,12/09/2026,Exhibition Hall 1,Theatre,343,3150,2744
+Saturday,12/09/2026,Glenstark Arena,Convention,13627,11940,190778
+Saturday,12/09/2026,Conference Hall A,Convention,1416,5320,7080
+Thursday,17/09/2026,Glenstark Arena,Theatre,6429,10945,90006
+Thursday,17/09/2026,Conference Hall B,Convention,3364,3800,23548
+Thursday,17/09/2026,CretCon Arena,Theatre,11339,8955,79373
+Thursday,17/09/2026,Conference Hall A,Corporate Event,2674,4560,21392
+Friday,18/09/2026,Exhibition Hall 2,Music Concert,691,1575,5528
+Friday,18/09/2026,Conference Hall A,Music Concert,4247,4560,25482
+Friday,18/09/2026,Glenstark Arena,Comedy Show,9383,22885,93830
+Friday,18/09/2026,CretCon Arena,Music Concert,11244,15920,123684
+Saturday,19/09/2026,Conference Hall A,Comedy Show,2155,5700,12930
+Saturday,19/09/2026,Exhibition Hall 1,Music Concert,865,4200,7785
+Saturday,19/09/2026,CretCon Arena,Comedy Show,14818,36815,148180
+Saturday,19/09/2026,Exhibition Hall 2,Comedy Show,975,2800,2925
+Tuesday,22/09/2026,Exhibition Hall 2,Comedy Show,908,1400,7264
+Tuesday,22/09/2026,Conference Hall B,Comedy Show,1847,2660,12929
+Tuesday,22/09/2026,CretCon Arena,Theatre,10726,9950,64356
+Thursday,24/09/2026,CretCon Arena,Convention,8848,8955,61936
+Thursday,24/09/2026,Conference Hall B,Corporate Event,2647,3800,18529
+Thursday,24/09/2026,Exhibition Hall 1,Comedy Show,339,2275,2373
+Thursday,24/09/2026,Exhibition Hall 2,Comedy Show,574,1925,1722
+Friday,25/09/2026,Exhibition Hall 2,Theatre,804,1400,4020
+Friday,25/09/2026,Glenstark Arena,Music Concert,6077,17910,66847
+Friday,25/09/2026,Conference Hall B,Theatre,3050,2280,15250
+Friday,25/09/2026,Conference Hall A,Convention,2667,4560,13335
+Friday,25/09/2026,CretCon Arena,Music Concert,8370,61690,100440
+Saturday,26/09/2026,Conference Hall B,Theatre,2775,2660,16650
+Saturday,26/09/2026,CretCon Arena,Convention,8651,51740,60557
+Saturday,26/09/2026,Glenstark Arena,Comedy Show,7751,12935,108514
+Saturday,26/09/2026,Exhibition Hall 1,Corporate Event,682,3500,4092
+Saturday,26/09/2026,Exhibition Hall 2,Corporate Event,951,2800,3804
+Saturday,26/09/2026,Conference Hall A,Corporate Event,3869,4940,23214
+Tuesday,29/09/2026,Glenstark Arena,Music Concert,8203,12935,106639
+Tuesday,29/09/2026,Exhibition Hall 1,Music Concert,341,2625,2728
+Tuesday,29/09/2026,Conference Hall B,Music Concert,3796,4940,22776
+Tuesday,29/09/2026,Conference Hall A,Corporate Event,1339,4180,6695
+Friday,02/10/2026,Glenstark Arena,Comedy Show,5507,15920,60577
+Friday,02/10/2026,Exhibition Hall 1,Music Concert,310,4200,2790
+Friday,02/10/2026,CretCon Arena,Theatre,9315,60695,93150
+Friday,02/10/2026,Exhibition Hall 2,Convention,878,2975,2634
+Saturday,03/10/2026,Glenstark Arena,Convention,10138,12935,141932
+Saturday,03/10/2026,Conference Hall B,Music Concert,1576,3800,9456
+Saturday,03/10/2026,Exhibition Hall 1,Convention,687,2625,4809
+Saturday,03/10/2026,Conference Hall A,Theatre,4082,4560,20410
+Wednesday,07/10/2026,CretCon Arena,Convention,9968,9950,89712
+Wednesday,07/10/2026,Conference Hall A,Comedy Show,3570,4180,28560
+Friday,09/10/2026,Exhibition Hall 2,Comedy Show,639,1400,3195
+Friday,09/10/2026,CretCon Arena,Comedy Show,11221,43780,134652
+Friday,09/10/2026,Glenstark Arena,Comedy Show,9422,22885,103642
+Friday,09/10/2026,Exhibition Hall 1,Convention,541,2625,3246
+Friday,09/10/2026,Conference Hall A,Theatre,1692,4560,11844
+Saturday,10/10/2026,Exhibition Hall 2,Music Concert,643,2800,5144
+Saturday,10/10/2026,CretCon Arena,Comedy Show,5968,24875,59680
+Saturday,10/10/2026,Conference Hall B,Music Concert,1142,3800,5710
+Saturday,10/10/2026,Conference Hall A,Corporate Event,1535,3800,9210
+Saturday,10/10/2026,Glenstark Arena,Comedy Show,8261,10945,115654
+Saturday,10/10/2026,Exhibition Hall 1,Corporate Event,866,3325,7794
+Wednesday,14/10/2026,Exhibition Hall 1,Corporate Event,688,2100,5504
+Wednesday,14/10/2026,Exhibition Hall 2,Convention,895,1750,2685
+Wednesday,14/10/2026,CretCon Arena,Convention,8786,10945,52716
+Thursday,15/10/2026,Glenstark Arena,Comedy Show,7217,9950,72170
+Thursday,15/10/2026,CretCon Arena,Convention,7232,10945,65088
+Thursday,15/10/2026,Exhibition Hall 1,Comedy Show,673,2275,6057
+Friday,16/10/2026,Exhibition Hall 2,Theatre,729,2450,5103
+Friday,16/10/2026,Conference Hall B,Comedy Show,2863,3040,20041
+Friday,16/10/2026,Conference Hall A,Music Concert,3964,4180,19820
+Friday,16/10/2026,Exhibition Hall 1,Music Concert,862,3675,6034
+Saturday,17/10/2026,Conference Hall B,Theatre,1717,4180,12019
+Saturday,17/10/2026,Exhibition Hall 2,Music Concert,718,2975,5026
+Saturday,17/10/2026,CretCon Arena,Convention,10384,49750,72688
+Saturday,17/10/2026,Conference Hall A,Music Concert,4062,5320,32496
+Saturday,17/10/2026,Glenstark Arena,Comedy Show,13969,14925,195566
+Wednesday,21/10/2026,Exhibition Hall 1,Theatre,780,3150,6240
+Wednesday,21/10/2026,Glenstark Arena,Corporate Event,10001,10945,90009
+Wednesday,21/10/2026,Exhibition Hall 2,Corporate Event,949,1925,7592
+Thursday,22/10/2026,Conference Hall A,Theatre,3345,4180,26760
+Thursday,22/10/2026,CretCon Arena,Convention,8825,10945,79425
+Friday,23/10/2026,Conference Hall B,Convention,2475,4560,14850
+Friday,23/10/2026,Conference Hall A,Comedy Show,2126,3420,17008
+Friday,23/10/2026,Exhibition Hall 1,Convention,403,2800,3224
+Friday,23/10/2026,Exhibition Hall 2,Music Concert,723,2625,3615
+Friday,23/10/2026,CretCon Arena,Theatre,9333,28855,74664
+Friday,23/10/2026,Glenstark Arena,Convention,5014,21890,70196
+Saturday,24/10/2026,CretCon Arena,Convention,5428,57710,54280
+Saturday,24/10/2026,Exhibition Hall 2,Comedy Show,690,2625,2760
+Saturday,24/10/2026,Conference Hall B,Theatre,3472,3040,20832
+Saturday,24/10/2026,Conference Hall A,Corporate Event,4979,5320,34853
+Saturday,24/10/2026,Glenstark Arena,Comedy Show,11041,23880,110410
+Saturday,24/10/2026,Exhibition Hall 1,Convention,888,2800,7992
+Thursday,29/10/2026,Conference Hall B,Comedy Show,2875,3800,17250
+Thursday,29/10/2026,Exhibition Hall 1,Comedy Show,419,2800,3352
+Thursday,29/10/2026,Exhibition Hall 2,Corporate Event,843,2100,5901
+Thursday,29/10/2026,Glenstark Arena,Comedy Show,7495,13930,97435
+Friday,30/10/2026,Exhibition Hall 1,Corporate Event,725,2800,6525
+Friday,30/10/2026,Exhibition Hall 2,Comedy Show,930,2975,5580
+Friday,30/10/2026,Conference Hall A,Music Concert,1154,3800,8078
+Friday,30/10/2026,CretCon Arena,Comedy Show,11576,23880,69456
+Friday,30/10/2026,Glenstark Arena,Music Concert,5065,19900,55715
+Saturday,31/10/2026,Glenstark Arena,Convention,11358,12935,113580
+Saturday,31/10/2026,Exhibition Hall 2,Convention,839,2450,6712
+Saturday,31/10/2026,Conference Hall A,Corporate Event,4100,4940,28700
+Saturday,31/10/2026,Exhibition Hall 1,Convention,634,2800,4438
+Saturday,31/10/2026,CretCon Arena,Music Concert,5048,34825,35336
